@@ -11,8 +11,8 @@
 - 🌱 I’m currently writing code in Rust.
 
 <a href="https://github.com/KarthikNedunchezhiyan">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=karthiknedunchezhiyan&show_icons=true&theme=algolia&count_private=true" />
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karthiknedunchezhiyan&layout=compact&langs_count=8&theme=algolia&hide=html,css" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=karthiknedunchezhiyan&show_icons=true&theme=algolia&count_private=true" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karthiknedunchezhiyan&layout=compact&langs_count=8&theme=algolia&hide=html,css" />
 </a>
 
 ### 📕 Latest Blog Posts

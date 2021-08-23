@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hello there 👋, I'm ✨ [Karthik Nedunchezhiyan](https://www.linkedin.com/in/karthiknedunchezhiyan/) ✨
+[![GitHub KarthikNedunchezhiyan](https://img.shields.io/github/followers/KarthikNedunchezhiyan?label=follow&style=social)](https://github.com/KarthikNedunchezhiyan)&nbsp;
 
-<!--
-**KarthikNedunchezhiyan/KarthikNedunchezhiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthiknedunchezhiyan/)](https://www.linkedin.com/in/karthiknedunchezhiyan/)
+[![Mail Badge](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:karthik1705.n@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍💻 I’m currently working working as a Full Stack Developer [@ZohoCatalyst](https://www.zoho.com/catalyst/)
+- 🎒 I've more than 3 years experience in working on cloud.
+- 🌱 I’m currently writing code in Rust.
+
+<a href="https://github.com/KarthikNedunchezhiyan">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=karthiknedunchezhiyan&show_icons=true&theme=algolia&count_private=true" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karthiknedunchezhiyan&layout=compact&langs_count=8&theme=algolia&hide=html,css" />
+</a>
+
+### 📕 Latest Blog Posts
+
+- [Intro to WebAssembly using Rust](https://www.linkedin.com/pulse/intro-webassembly-rust-karthik-nedunchezhiyan/)
+
+### 🔨 Tech Stack
+
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+![Git](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+### ⬇️⬇️⬇️ Check out my pinned repositories ⬇️⬇️⬇️

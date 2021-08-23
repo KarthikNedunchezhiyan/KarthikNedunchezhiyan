@@ -6,8 +6,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthiknedunchezhiyan/)](https://www.linkedin.com/in/karthiknedunchezhiyan/)
 [![Mail Badge](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:karthik1705.n@gmail.com)
 
-- 👨🏽‍💻 I’m currently working as a Full Stack Developer [@ZohoCatalyst](https://www.zoho.com/catalyst/)
+- 👨🏽‍💻 I’m currently working as a Full Stack Developer [@ZohoCatalyst - Zoho's Serverless Platform](https://www.zoho.com/catalyst/)
 - 🎒 I've more than 3 years experience in working on cloud.
+- 🚀 I've experience in developing a complete distributed system stack from scratch.
+- ❤️ Exploring new technologies, drawing, and game development is my hobby. I love basketball ⛹️‍♂️.
+- 💭 Ask me about serverless platform, distributed systems, system programming, front end development.
 - 🌱 I’m currently writing code in Rust.
 
 <a href="https://github.com/KarthikNedunchezhiyan">

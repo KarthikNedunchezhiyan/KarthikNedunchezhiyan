@@ -33,4 +33,4 @@ Maths-Biology group in high school, Electronics & Instrumentation major in under
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-### ⬇️⬇️⬇️ Check out my pinned repositories ⬇️⬇️⬇️
+![Wave](https://raw.githubusercontent.com/KarthikNedunchezhiyan/KarthikNedunchezhiyan/main/wave.svg)

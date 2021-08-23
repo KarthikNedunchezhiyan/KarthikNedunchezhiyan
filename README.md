@@ -10,7 +10,7 @@
 - 🎒 I've more than 3 years experience in working on cloud.
 - 🚀 I've experience in developing a complete distributed system stack from scratch.
 - ❤️ Exploring new technologies, drawing, and game development is my hobby. I love basketball ⛹️‍♂️.
-- 💭 Ask me about serverless platform, distributed systems, system programming, front end development.
+- 💭 Ask me about serverless platform, cloud computing, parallel computing, distributed systems, system programming, front end development.
 - 🌱 I’m currently writing code in Rust.
 
 <a href="https://github.com/KarthikNedunchezhiyan">

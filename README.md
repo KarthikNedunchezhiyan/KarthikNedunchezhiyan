@@ -15,6 +15,10 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karthiknedunchezhiyan&layout=compact&langs_count=8&theme=algolia&hide=html,css" />
 </a>
 
+### 😄 Fun fact
+
+Maths-Biology group in high school, Electronics & Instrumentation major in undergraduate, Working as a software developer.
+
 ### 📕 Latest Blog Posts
 
 - [Intro to WebAssembly using Rust](https://www.linkedin.com/pulse/intro-webassembly-rust-karthik-nedunchezhiyan/)

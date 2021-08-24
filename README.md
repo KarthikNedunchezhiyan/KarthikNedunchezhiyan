@@ -5,6 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthiknedunchezhiyan/)](https://www.linkedin.com/in/karthiknedunchezhiyan/)
 [![Mail Badge](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:karthik1705.n@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/-karthik%20nedunchezhiyan%231804-5865f2?style=flat-square&logo=Discord&logoColor=white)](#)
 
 - 👨🏽‍💻 I’m currently working as a Full Stack Developer [@ZohoCatalyst - Zoho's Serverless Platform](https://www.zoho.com/catalyst/)
 - 🎒 I've more than 3 years experience in working on cloud.

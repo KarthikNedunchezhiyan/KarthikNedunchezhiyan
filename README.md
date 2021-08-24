@@ -1,6 +1,10 @@
 ### Hello there 👋, I'm ✨ [Karthik Nedunchezhiyan](https://www.linkedin.com/in/karthiknedunchezhiyan/) ✨
 [![GitHub KarthikNedunchezhiyan](https://img.shields.io/github/followers/KarthikNedunchezhiyan?label=follow&style=social)](https://github.com/KarthikNedunchezhiyan)&nbsp;
 
+Welcome to my page!
+<br/>
+I am a Full Stack Developer from **Chennai, India** 🇮🇳.
+
 ### 🚀 About Me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthiknedunchezhiyan/)](https://www.linkedin.com/in/karthiknedunchezhiyan/)
@@ -11,7 +15,8 @@
 - 🎒 I've more than 3 years experience in working on cloud.
 - 🚀 I've experience in developing a complete distributed system stack from scratch.
 - ❤️ Exploring new technologies, drawing, and game development is my hobby. I love basketball ⛹️‍♂️.
-- 💭 Ask me about serverless platform, cloud computing, parallel computing, distributed systems, system programming, front end development.
+- 💬 Ask me about serverless platform, cloud computing, parallel computing, distributed systems, system programming, front end development.
+- 🗣️ Pronouns: he/him
 - 🌱 I’m currently writing code in Rust.
 
 <a href="https://github.com/KarthikNedunchezhiyan">
@@ -25,7 +30,12 @@ Maths-Biology group in high school, Electronics & Instrumentation major in under
 
 ### 📕 Latest Blog Posts
 
-- [Intro to WebAssembly using Rust](https://www.linkedin.com/pulse/intro-webassembly-rust-karthik-nedunchezhiyan/)
+<ul>
+  <li>
+    <a href="https://www.linkedin.com/pulse/intro-webassembly-rust-karthik-nedunchezhiyan/">Intro to WebAssembly using Rust</a><br/>
+    <i>An overview about WebAssembly and how to use using Rust.</i>
+  </li>
+</ul>
 
 ### 🔨 Tech Stack
 

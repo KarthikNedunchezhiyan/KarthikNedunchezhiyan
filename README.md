@@ -33,7 +33,7 @@ Maths-Biology group in high school, Electronics & Instrumentation major in under
 <ul>
   <li>
     <a href="https://www.linkedin.com/pulse/intro-webassembly-rust-karthik-nedunchezhiyan/">Intro to WebAssembly using Rust</a><br/>
-    <i>An overview about WebAssembly and how to use using Rust.</i>
+    <i>An overview about WebAssembly and how to use it with Rust.</i>
   </li>
   <li>
     <a href="https://www.linkedin.com/pulse/lets-build-game-using-rust-webassembly-karthik-nedunchezhiyan/">Let's Build A Game Using Rust and WebAssembly</a><br/>

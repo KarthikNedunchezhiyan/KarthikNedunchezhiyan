@@ -26,7 +26,7 @@ I am a Full Stack Developer from **Chennai, India** 🇮🇳.
 
 ### 😄 Fun Fact
 
-Maths-Biology group in high school, Electronics & Instrumentation major in undergraduate, Working as a software developer.
+Mathematics-Biology group in high school, Electronics & Instrumentation major in undergraduate, Working as a software developer.
 
 ### 📕 Latest Blog Posts
 

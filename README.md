@@ -11,7 +11,7 @@ I am a Full Stack Developer from **Chennai, India** 🇮🇳.
 [![Mail Badge](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:karthik1705.n@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-karthik%20nedunchezhiyan%231804-5865f2?style=flat-square&logo=Discord&logoColor=white)](#)
 
-- 📚 Incoming CS Masters student @Clemson University
+- 📚 Current computer science masters student specializing in Networks, Systems, and Security [@Clemson University, USA 🇺🇸](https://www.clemson.edu/).
 - 👨🏽‍💻 Previously worked as a Full Stack Developer [@ZohoCatalyst - Zoho's Serverless Platform](https://www.zoho.com/catalyst/)
 - 🎒 I've more than 3 years experience in working on cloud.
 - 🚀 I've experience in developing a complete distributed system stack from scratch.

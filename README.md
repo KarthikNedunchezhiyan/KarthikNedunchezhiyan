@@ -15,7 +15,7 @@ I am a Full Stack Developer from **Chennai, India** 🇮🇳.
 - 👨🏽‍💻 Previously worked as a Full Stack Developer [@ZohoCatalyst - Zoho's Serverless Platform](https://www.zoho.com/catalyst/)
 - 🎒 I've more than 3 years experience in working on cloud.
 - 🚀 I've experience in developing a complete distributed system stack from scratch.
-- ❤️ Exploring new technologies, drawing, and game development is my hobby. I love basketball ⛹️‍♂️.
+- ❤️ Exploring new technologies, drawing, and game development is my hobby. I love playing basketball ⛹️‍♂️.
 - 💬 Ask me about serverless platform, cloud computing, parallel computing, distributed systems, system programming, front end development.
 - 🗣️ Pronouns: he/him
 - 🌱 I’m currently writing code in Rust.
